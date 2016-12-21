@@ -1,7 +1,12 @@
 {
-  "name": "arkitecht/fedex-laravel",
+  "name": "dnasys/fedex",
   "description": "A service provider to integrate FedEx servces into your Laravel Project",
   "license": "MIT",
+  "source": {
+			"url": "https://github.com/jstoneffler/KitanoConeectionBundle.git",
+			"type": "git",
+			"reference": "master",
+		},
   "require": {
     "laravel/framework": "^5.0",
     "arkitecht/fedex-php": "dev-master",
